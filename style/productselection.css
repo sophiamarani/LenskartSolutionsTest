@@ -1,0 +1,8 @@
+.carousel-indicators .active{
+    background-color: black;
+}
+
+.carousel-indicators{
+    background-color: black;
+    opacity: 0.5;
+}
